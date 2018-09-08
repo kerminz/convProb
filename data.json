@@ -1,0 +1,27 @@
+[
+  {
+    "used_search": 0.00,
+    "views_productDetailPage": 0.01,
+    "order": 0
+  },
+  {  
+    "used_search": 0.02,
+    "views_productDetailPage": 0.00,
+    "order": 0
+  }, 
+  {
+    "used_search": 0.03,
+    "views_productDetailPage": 0.01,
+    "order": 0
+  },
+  {
+    "used_search": 0.12,
+    "views_productDetailPage": 0.18,
+    "order": 1
+  },
+  {
+    "used_search": 0.15,
+    "views_productDetailPage": 0.12,
+    "order": 1
+  }
+]
